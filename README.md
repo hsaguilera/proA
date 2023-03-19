@@ -1,2 +1,2 @@
 # proA
-#Practica: Creación de repositorios desde la consola
+Practica: Creación de repositorios desde la consola
